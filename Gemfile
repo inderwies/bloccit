@@ -42,3 +42,6 @@ gem 'bootstrap-sass', '~> 3.1.1'
 
 #devise
 gem 'devise'
+
+#figaro
+gem 'figaro'
